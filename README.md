@@ -4,7 +4,7 @@ Students passing the course will be able to describe basic concepts of machine l
 
 This course includes four practical sessions implemented in Python:
 
-1) Build an end-to-end ML framework
-2) Supervised learning: classification
-3) Supervised learning: regression
-4) Unsupervised learning: dimensionality reduction and clustering
+0) Build an end-to-end ML framework
+1) Supervised learning: classification
+2) Supervised learning: regression
+3) Unsupervised learning: dimensionality reduction and clustering
